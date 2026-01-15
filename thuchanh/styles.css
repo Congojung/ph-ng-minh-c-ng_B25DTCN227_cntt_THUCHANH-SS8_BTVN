@@ -21,4 +21,11 @@
     text-decoration: none;
     color: #0a9eee;
     font-weight: bold;
+
+}
+.menu a:hover {
+    color: white;
+    background-color: #058ed3;
+    padding: 6px 12px;
+    border-radius: 10px;
 }

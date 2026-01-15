@@ -1,0 +1,24 @@
+.body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f1f3f5; 
+    color: #272f3b;
+    position: relative;
+    min-height: 120vh;
+    display: flex;
+    flex-direction: column;
+}
+.menu {
+    background-color: #e0f2fe;
+    text-align: center;
+    padding: 12px;
+    margin: 15px;
+    border-radius: 12px;
+}
+
+.menu a {
+    margin: 0 12px;
+    text-decoration: none;
+    color: #0a9eee;
+    font-weight: bold;
+}
